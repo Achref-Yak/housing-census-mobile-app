@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">SnitRessensement</string>
+    <string name="tab_text_1">Mission A Traiter</string>
+    <string name="tab_text_2">Missions Traitées</string>
+    <string name="tab_text_3">Fiche Technique</string>
+    <string name="tab_text_4">Etat</string>
+    <string name="tab_text_5">Proprietaires</string>
+    <string name="tab_text_6">Descriptif general</string>
+
+    <string name="seConnecter">Se Connecter </string>
+    <string name="User">User</string>
+    <string name="Pr">Votre Profile</string>
+    <string name="PrEdit">Editer votre Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="CategorieArray">
+        <item>Immeuble</item>
+        <item>Garage</item>
+        <item>Villa</item>
+
+    </string-array>
+    <string-array name="et">
+        <item>Bon</item>
+        <item>Moyen</item>
+        <item>Reparation</item>
+        <item>Menacant</item>
+    </string-array>
+    <string-array name="fb">
+        <item>Faible</item>
+        <item>Bon</item>
+    </string-array>
+    <string-array name="si">
+        <item>Suffisant</item>
+        <item>insuffisant</item>
+    </string-array>
+    <string-array name="li">
+        <item>Legere</item>
+        <item>Important</item>
+    </string-array>
+</resources>
